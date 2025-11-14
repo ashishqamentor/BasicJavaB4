@@ -7,7 +7,7 @@ public class child extends parent
 		super(5);
 		System.out.println("i am in child constructor");
 		
-		
+		System.out.println("ashish 14 /11");
 		System.out.println("git testing ");
 		
 		System.out.println("git testing 2222");
